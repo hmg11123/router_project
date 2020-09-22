@@ -33,6 +33,13 @@
   padding: 5px;
 }
 
+.screen01 .screen01_menu01 a span,
+.screen01 .screen01_menu02 a span {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
 .screen01 .screen01_menu01,
 .screen01 .screen01_menu02 {
   width: 20%;
